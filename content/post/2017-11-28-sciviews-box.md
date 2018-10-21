@@ -1,0 +1,23 @@
+---
+title: "SciViews Box"
+author: "Philippe Grosjean"
+date: '2017-11-28'
+slug: sciviews-box
+summary: The SciViews Box is a preconfigured virtual machine for data analysis in
+  a reproducible way
+tags:
+  - reproducible research
+  - R Markdown
+  - data science
+categories:
+  - R
+---
+
+The **SciViews Box** is a VirtualBox virtual machine completely installed with Xubuntu, R, RStudio, Python, Jupyter and Spyder, plus more than a thousand packages. It is designed to be used as a reproducible data science toolbox. A new SciViews Box is released every year with updated software.
+
+The SciViews Box is meant to lower the technological barrier for "non-geek" users that want to do reproducible data science. As such, it provides a uniform and predictable environment (what works on one computer should work on another one, being a PC under Windows, Linux or MacOS). It is also as easy as possible to install and configure. An installer is available for Windows and MacOS users, and it provides an easy launcher that automatically configures, starts, and connects to the SciViews Box. RStudio server and Jupyter are immediately available.
+
+[Instructions to install and use the SciViews Box 2018](http://biodatascience-course.sciviews.org/sdd-umons/install.html) (in French).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0MDUzOTU1N119
+-->
