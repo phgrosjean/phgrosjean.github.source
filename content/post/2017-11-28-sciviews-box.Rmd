@@ -19,5 +19,5 @@ The SciViews Box is meant to lower the technological barrier for "non-geek" user
 
 [Instructions to install and use the SciViews Box 2018](http://biodatascience-course.sciviews.org/sdd-umons/install.html) (in French).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NTY0MTc5XX0=
+eyJoaXN0b3J5IjpbLTY0MDUzOTU1NywyNDY1NjQxNzldfQ==
 -->
